@@ -1,0 +1,12 @@
+descartes
+geopandas
+ipywidgets
+jupyterlab
+jupyterlab-widgets
+matplotlib
+numpy
+pandas
+scikit-learn
+seaborn
+shapely
+yellowbrick
