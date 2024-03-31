@@ -13,7 +13,7 @@ This Jupyter notebook was implemented as part of the graduate-level coursework f
 The traffic accidents dataset was sourced from the [Nashville Open Data Portal](https://data.nashville.gov/Police/Traffic-Accidents/6v6w-hpcw/about_data)
 
 # Prerequisites
-This Jypyter notebook is written in Python 3, and has been tested to run on Linux (Debian 12) with Python 3.11.  It should work on any currently-supported Python 3.x interpreter.  
+This Jupyter notebook is written in Python 3, and has been tested to run on Linux (Debian 12) with Python 3.11.  It should work on any currently-supported Python 3.x interpreter.  
 
 Additional libraries are contained in the `requirements.txt` file, and can be installed using the `pip` utility:
 
