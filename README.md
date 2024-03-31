@@ -1,6 +1,8 @@
 # Traffic-Clustering
 Nashville Traffic Accident Clustering &amp; Analysis
 
+![an image showing clustered Nashville traffic accidents](Cluster-Map.png "Nashville Traffic Accident Clusters")
+
 # Goal
 Using available traffic accident data, can we answer this question:
 >Where are the common hotspots in traffic accidents within the Nashville metropolitan area?
